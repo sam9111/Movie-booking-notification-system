@@ -1,5 +1,5 @@
 # Movie Booking Email Notifier
->College Mini Project for "Programming in Python" course in Sem 1
+>Mini Project for "Programming in Python" course in Sem 1
 
 A simple webscraper in Python that sends email notifications when bookings are open for a the user's choice of movie.
 
